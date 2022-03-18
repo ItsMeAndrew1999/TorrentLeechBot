@@ -1,13 +1,13 @@
 # Telegram Leecher Bot
 ## Update :  Fixed Heroku Deployment Problem 🙂 (OR [solution here](#item-could-not-be-created-error-on-heroku-and-how-to-overcome-it))
-### Note : If want some new features.. [DM me here](https://t.me/torrentleech49_bot) OR [Join here and ask](https://t.me/torrentleech49_bot).
+### Note : If want some new features.. [DM me here](https://https://t.me/AndrewTorrent1Bot) OR [Join here and ask](@AndrewTorrent1Bot).
 <br>
 
 
 <img width=400px height=400px src="https://images.unsplash.com/photo-1562907550-096d3bf9b25c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=735&q=80" alt="Bot logo"></a>
 
 <h2>Join <a href=https://t.me/torrentleechbot49>TorrentLeech Group</a> for demo!</h2>
-<p align="left"><a href="https://t.me/torrentleechbot49"><img src="https://img.shields.io/badge/Telegram-Join%20TorrentLeech%20Group-blue.svg?logo=telegram"></a></p>
+<p align="left"><a href="https://t.me/AndrewTorrent1Bot"><img src="https://img.shields.io/badge/Telegram-Join%20TorrentLeech%20Group-blue.svg?logo=telegram"></a></p>
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
@@ -111,6 +111,6 @@
 
 ## Deploy on Heroku :-
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/NaveenTn49/TorrentLeechBot)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/ItsMeAndrew1999/TorrentLeechBott)"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
 
 
